@@ -15,3 +15,7 @@ Week 4
 *ttt.css
 *blog.hmtl
 *blog.css
+
+Week 5
+*imagegallery.hmtl/.css
+*petweb.html/.css
