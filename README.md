@@ -1,6 +1,6 @@
 # 20180911-new-webpage
 
-Week 1
+## Week 1
 *intro.html
 
 Week 2
@@ -19,3 +19,6 @@ Week 4
 Week 5
 *imagegallery.hmtl/.css
 *petweb.html/.css
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzY1NDYwMTk3XX0=
+-->
