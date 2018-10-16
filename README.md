@@ -13,15 +13,18 @@
 * tku60.html
 [TKU 60](https://kai881117.github.io/107-1-Web-Design/w03/tku60.html)
 * div.html
-[Div practice]()
+[Div practice](https://kai881117.github.io/107-1-Web-Design/w03/div.html)
 ## Week 4
 * ttt.html/.css
+[Tic Tac Toe](https://kai881117.github.io/107-1-Web-Design/w04/ttt.html)
 * blog.hmtl/.css
+[Blog](https://kai881117.github.io/107-1-Web-Design/w04/blog.html)
 
 ## Week 5
 * imagegallery.hmtl/.css
+[Image Gallery]()
 * petweb.html/.css
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzE5NDEwMCw3NDY4MDI2NDcsODk1MT
-M2MjYzXX0=
+eyJoaXN0b3J5IjpbNjcxMzA5MDA0LDc0NjgwMjY0Nyw4OTUxMz
+YyNjNdfQ==
 -->
